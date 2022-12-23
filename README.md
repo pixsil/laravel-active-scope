@@ -13,7 +13,7 @@ Find this project useful? You can support me with a Paypal donation:
 For a quick install, run this from your project root:
 ```bash
 mkdir -p app/Scopes
-wget http://fillin/scopes/active-scope.php -O app/Scopes/ActiveScope.php
+wget https://raw.githubusercontent.com/pixsil/laravel-active-scope/main/scopes/ActiveScope.php -O app/Scopes/ActiveScope.php
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ wget http://fillin/scopes/active-scope.php -O app/Scopes/ActiveScope.php
 Use the scope like this:
 
 ```php
-Car::active->get();
+Car::active()->get();
 ```
 
 If you want the active scoope always be active use the following model method.
