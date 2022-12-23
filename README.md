@@ -1,4 +1,4 @@
-# ... for Laravel
+# Active scope file for Laravel
 
 Active scope file for Laravel. Filter your records based on an active column
 
