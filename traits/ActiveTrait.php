@@ -1,6 +1,6 @@
-// version 3: added trait
-
 <?php
+
+// version 3: added trait
 
 namespace App\Traits;
 
