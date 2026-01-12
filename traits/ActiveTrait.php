@@ -1,4 +1,4 @@
-<!-- V2: added trait -->
+// version 3: added trait
 
 <?php
 
