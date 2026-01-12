@@ -14,6 +14,9 @@ For a quick install, run this from your project root:
 ```bash
 mkdir -p app/Scopes
 wget https://raw.githubusercontent.com/pixsil/laravel-active-scope/main/scopes/ActiveScope.php -O app/Scopes/ActiveScope.php
+
+mkdir -p app/Traits
+wget https://raw.githubusercontent.com/pixsil/laravel-active-scope/refs/heads/main/traits/ActiveTrait.php -O app/Traits/ActiveTrait.php
 ```
 
 ## Usage
