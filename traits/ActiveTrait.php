@@ -1,3 +1,5 @@
+<!-- V2: added trait -->
+
 <?php
 
 namespace App\Traits;
